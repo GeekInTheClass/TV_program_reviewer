@@ -1,2 +1,2 @@
 # TV_program_reviewer
-share reviews of tv programs
+can write and share ratings and reviews of each television program
